@@ -1,4 +1,4 @@
-# Deep Thpughts
+# Deep Thoughts
 
 ## Table of Contents  
 [Description](#Description)  
