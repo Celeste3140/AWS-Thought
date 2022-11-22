@@ -9,7 +9,7 @@ app.use(express.urlencoded({ extended: true }));
 
 // Serve up static assets
 if (process.env.NODE_ENV === 'production') {
-  app.use(express.static('client/build'));
+    app.use(express.static('client/build'));
 }
 
 // app.use(require('./routes'));
@@ -17,5 +17,5 @@ app.use('/api/', userRoutes);
 
 // Start the API server
 app.listen(PORT, () =>
-  console.log(`🌎  ==> API Server now listening on PORT ${PORT}!`),
+    console.log(`🌎  ==> API Server now listening on PORT ${PORT}!`),
 );
