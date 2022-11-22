@@ -6,7 +6,7 @@
 
 ## Description
 
-This application is called "Deep Thoughts," and allows users to post their thoughts. It uses MongoDB, Express.js, React, and Node.js, makeing it a MERN application. The app will be deployed to the cloud and replace the back-end API with cloud resources to handle the storage, database, and computing.
+This application is called "Deep Thoughts," and allows users to post their thoughts. It uses MongoDB, Express.js, React, and Node.js, makeing it a MERN application. The app will be deployed to the cloud and replace the back-end API with cloud resources to handle the storage, database, and computing. This application will also display the use and understanding of Amazon Simple Storage Service for an object storage through a web service interface. 
 
 ## User-Stories 
 
