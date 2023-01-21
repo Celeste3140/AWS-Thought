@@ -89,11 +89,11 @@ const ThoughtForm = () => {
           type="file" 
           ref={fileInput} 
           className="form-input p-2" />
-          <button className="btn" 
+         {/*  <button className="btn" 
           onClick={handleImageUpload} 
           type="submit">
             Upload
-          </button>
+          </button> */}
         </label>
         <button className="btn col-12 " type="submit">
           Submit
