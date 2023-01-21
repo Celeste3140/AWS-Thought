@@ -44,3 +44,7 @@ This application is called "Deep Thoughts," and allows users to post their thoug
 
 * As a user, I want to be able to visit the app on a public URL.
 
+## Screenshot
+![AWS-app screenshot](https://user-images.githubusercontent.com/105468134/213840202-edead300-8b2c-43db-8646-9af4d27cc694.jpg)
+
+
