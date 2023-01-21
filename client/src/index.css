@@ -1,10 +1,10 @@
 :root {
   --primary: #497573;
-  --secondary: #99f7f2;
+  --secondary: rgb(238,205,211);
   --tertiary: #b2c2c1;
   --quatrinary: #cadbda;
   --light: #e1f5f4;
-  --dark: #6c7575;
+  --dark: black;
   --error: rgb(228, 46, 1);
   --border-radius: 0.3rem;
   --spacing-one: calc(1rem * 0.25);
@@ -40,7 +40,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Karla', sans-serif;
+ /*  font-family: 'Karla', sans-serif; */
   font-weight: 700;
   margin: 5px 0;
   line-height: 1.25;
